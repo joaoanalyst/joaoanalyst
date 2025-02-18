@@ -1,10 +1,3 @@
-## Olá! João Vitor Vieira aqui!
-Graduando em Ciência de Dados e Gestão Financeira | Apaixonado por Transformar Dados em Impacto Exponencial nos Negócios
-
-👨🏻‍💻 
-
-🚀 Minha meta é o crescimento e aprendizado contínuo, buscando constantemente novas maneiras de potencializar negócios e contribuir para o sucesso exponencial. Estou sempre em busca de desafios que me permitam dar passos mais largos em direção à excelência e à inovação.
-
 <h1 align="center">Olá! 👋😄 Prazer, Sou o João Vieira! </h1>
 <h3 align="center">Este é meu repositório de Análise e Ciência de Dados.</h3>
 
