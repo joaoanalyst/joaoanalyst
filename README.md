@@ -2,9 +2,9 @@
 <h3 align="center">Este é meu repositório de Análise e Ciência de Dados.</h3>
 
 <h2 align="left">🗨 Sobre mim:</h2>
-🧑🏻‍🎓 Graduando em Ciência de Dados e Gestão Financeira | Apaixonado por Transformar Dados em Impacto Exponencial nos Negócios
+🧑🏻‍🎓 Graduando em Ciência de Dados e Gestão Financeira | Apaixonado por Transformar Dados em Impacto Exponencial nos Negócios.
 
-ou um entusiasta da Ciência de Dados, movido pela fome de conhecimento e pela paixão em criar produtos de dados que gerem impacto significativo nos negócios. Com experiência em consultas complexas, manipulação, análise diagnóstica e preditiva de dados, utilizo ferramentas como Python, Machine Learning, SQL e Excel para extrair insights valiosos e impulsionar decisões estratégicas.
+Um entusiasta da Ciência de Dados, movido pela fome de conhecimento e pela paixão em criar produtos de dados que gerem impacto significativo nos negócios. Com experiência em consultas complexas, manipulação, análise diagnóstica e preditiva de dados, utilizo ferramentas como Python, Machine Learning, SQL e Excel para extrair insights valiosos e impulsionar decisões estratégicas.
 
 Além disso, atuo no desenvolvimento de processos de ETL (Extração, Transformação e Carregamento) e trabalho com plataformas de Business Intelligence (BI), como Power BI e Metabase, para criar visualizações personalizadas e impactantes. Meu objetivo é comunicar descobertas de forma clara e acessível, garantindo que os dados sejam compreendidos e utilizados de maneira eficaz.
 
